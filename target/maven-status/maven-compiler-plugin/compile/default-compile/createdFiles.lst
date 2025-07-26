@@ -1,0 +1,7 @@
+com\urbancompany\addressBook\controller\HealthCheck.class
+com\urbancompany\addressBook\AddressBookApplication.class
+com\urbancompany\addressBook\repository\ContactRepository.class
+com\urbancompany\addressBook\storage\InMemoryStorage.class
+com\urbancompany\addressBook\controller\ContactController.class
+com\urbancompany\addressBook\service\ContactService.class
+com\urbancompany\addressBook\model\Contact.class
