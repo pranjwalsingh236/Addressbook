@@ -16,3 +16,8 @@ The application follows a layered architecture:
 - Maven 3.6+
 
 ### Building the Application
+- clone this repo
+- cd Addressbook
+- mvn clean compile
+- mvn spring-boot:run
+- Server will be up on port 5000, go http://localhost:5000/health to verify if everything is alright 
